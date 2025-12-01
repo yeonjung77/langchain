@@ -257,9 +257,9 @@ st.markdown("---")
 tab_main, tab_keyword, tab_chapter, tab_country, tab_chat = st.tabs([
     "1️⃣ AI Report Search",
     "2️⃣ Keyword Analytics",
-    "3️⃣ Chapter Insighs",
+    "3️⃣ Chapter Insights",
     "4️⃣ Regional Insights",
-    "5️⃣ Strategy Chat & Report",
+    "5️⃣ Chat & Report",
 ])
 
 
