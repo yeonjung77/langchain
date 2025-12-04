@@ -1,6 +1,6 @@
-# State of Fashion — AI Insight Engine
+# The State of Fashion — AI Insight Engine
 
-McKinsey & BoF *State of Fashion* 2021–2025 리포트를 기반으로 인사이트를 탐색하는 Streamlit 앱입니다.
+McKinsey & BoF *The State of Fashion* 2021–2025 리포트를 기반으로 인사이트를 탐색하는 Streamlit 앱입니다.
 
 - `AI Report Search`: 질문을 입력하면 SoF 전체를 RAG로 검색해 답변
 - `Keyword Analytics`: 연도별 핵심 키워드 Top 10 및 트렌드 시각화
